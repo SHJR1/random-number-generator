@@ -1,0 +1,19 @@
+* {
+    font-family: 'Kdam Thmor Pro', sans-serif;
+}
+html {
+    background-color: #008B8B;
+}
+
+body {
+    font-family: Comic Sans MS, Comic Sans, cursive;
+    background-color: #008B8B;
+  }
+  
+.box {
+    background-color: #2e8b57;
+}
+
+h4 {
+    margin-top: 5rem;
+}
